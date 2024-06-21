@@ -1,1 +1,2 @@
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://<your_account>.github.io/react_todo-app-with-api/) and add it to the PR description.
+[DEMO LINK](https://stepanyukvova200.github.io/TODOs-Management/)
+
