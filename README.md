@@ -1,4 +1,5 @@
 Technologies Used:
+React
 TypeScript 
 Redux 
 HTML5 
