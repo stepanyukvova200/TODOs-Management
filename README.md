@@ -1,12 +1,13 @@
+Technologies Used:
     Frontend:
         React
         TypeScript
+        Redux
         HTML5
         CSS3
         SCSS
         BEM
         Bootstrap
-
     Development Tools:
         Git/GitHub
         VS Code
